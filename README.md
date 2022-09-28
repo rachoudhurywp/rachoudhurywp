@@ -1,7 +1,7 @@
 ### Hi there 👋, This is Raju Ahmed Choudhury 
 #### I am a Professional Front End Developer
-![I am a Professional Front End Developer](https://pbs.twimg.com/profile_banners/861521901159686144/1664384902/600x200)
-
+![I am a Professional Front End Developer]
+(https://pbs.twimg.com/profile_banners/861521901159686144/1664384902/100%x500)
 I am from Sylhet, Bangladesh, I am a Front End Developer & work in this field from the last 5+ years. (2018-Present) I am working with a team (Ecologytheme) www.ecologytheme.com. which ThemeForest link is www.themeforest.net/user/ecologytheme (Project Base Work) 
 I can Create/Build/Design or redesign a website, make it responsive, fix bugs, make animations through CSS & JavaScript, Convert PSD/Figma/XD to HTML, CSS & JavaScript (also using framework like Bootstrap). I am also an expert in WordPress theme customizations. Work with elementor, elementor pro, DIVI, etc Placebuilders.
 
