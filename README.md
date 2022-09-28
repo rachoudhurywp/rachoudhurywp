@@ -6,7 +6,7 @@
 I am from Sylhet, Bangladesh, I am a Front End Developer & work in this field from the last 5+ years. (2018-Present) I am working with a team (Ecologytheme) www.ecologytheme.com. which ThemeForest link is www.themeforest.net/user/ecologytheme (Project Base Work) 
 I can Create/Build/Design or redesign a website, make it responsive, fix bugs, make animations through CSS & JavaScript, Convert PSD/Figma/XD to HTML, CSS & JavaScript (also using framework like Bootstrap). I am also an expert in WordPress theme customizations. Work with elementor, elementor pro, DIVI, etc Placebuilders.
 
-For your Kind information Here I attach some of My work links 
+####For your Kind information Here I attach some of My work links
 
 <ul type="none">
   <li><b>Personal Website:</b>
@@ -21,7 +21,7 @@ For your Kind information Here I attach some of My work links
   </li>
 </ul>
 
-Here are some of the work links: 
+#### <mark>Here are some of the work links: </mark>
 <ul type="none">
   <li>✔	https://rachoudhury.com/transland-multipages-website/
     <ul type="none">
