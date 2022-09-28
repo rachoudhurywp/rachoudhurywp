@@ -1,30 +1,41 @@
-![I am a Professional Front End Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/307485302_424595906453567_5743610950114107704_n.png?stp=dst-png_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Nl9kpYMOrB4AX-T3FKi&_nc_ht=scontent.fdac22-1.fna&oh=00_AT9J7AfSBsD33-XTH18aPWRgkTl2TjF3WyNM851YfidgHg&oe=6339AC77)
-
 ### Hi there 👋, This is Raju Ahmed Choudhury 
 #### I am a Professional Front End Developer
-
+![I am a Professional Front End Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/307485302_424595906453567_5743610950114107704_n.png?stp=dst-png_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Nl9kpYMOrB4AX-T3FKi&_nc_ht=scontent.fdac22-1.fna&oh=00_AT9J7AfSBsD33-XTH18aPWRgkTl2TjF3WyNM851YfidgHg&oe=6339AC77)
 
 I am from Sylhet, Bangladesh, I am a Front End Developer & work in this field from the last 5+ years. (2018-Present) I am working with a team (Ecologytheme) www.ecologytheme.com. which ThemeForest link is www.themeforest.net/user/ecologytheme (Project Base Work) 
 I can Create/Build/Design or redesign a website, make it responsive, fix bugs, make animations through CSS & JavaScript, Convert PSD/Figma/XD to HTML, CSS & JavaScript (also using framework like Bootstrap). I am also an expert in WordPress theme customizations. Work with elementor, elementor pro, DIVI, etc Placebuilders.
 
 For your Kind information Here I attach some of My work links 
 
-Personal Website:
-✔	http://www.rachoudhury.com
-My Themeforest Profile: 
-✔	http://www.themeforest.net/user/syltheme (Here you can see the 03 Applanding website & 01 Travel Website)
+<ul type="none">
+  <li><b>Personal Website:</b>
+    <ul type="none">
+      <li><b>✔	http://www.rachoudhury.com</b></li>
+    </ul>
+  </li>
+  <li><b>My Themeforest Profile: </b>
+    <ul type="none">
+      <li>✔	http://www.themeforest.net/user/syltheme (Here you can see the 03 Applanding website & 01 Travel Website)</li>
+    </ul>
+  </li>
+</ul>
 
 Here are some of the work links: 
-✔	https://rachoudhury.com/transland-multipages-website/ 
-✔	{Multipurpose websites ( Applanding, Construction, Marketing, Travel & Corporate)}
-✔	https://rachoudhury.com/nft/ (NFT Marketplace Website)
-✔	http://rachoudhury.com/butic/ (E-commerce Website)
-✔	https://rachoudhury.com/travel/ (Trave Website)
-✔	http://rachoudhury.com/foodz/ (Online Agro Firm Website)
-✔	https://rachoudhury.com/liodesign/ (Personal Portfolio Website)
-✔	https://rachoudhury.com/wer/ (Wedding Website)
-✔	https://rachoudhury.com/Cripto Carency/  (Simple Crypto Carency Page)
-✔	https://rachoudhury.com/message/ (Simple Chat Page)
+<ul type="none">
+  <li>✔	https://rachoudhury.com/transland-multipages-website/
+    <ul type="none">
+      <li>{Multipurpose websites ( Applanding, Construction, Marketing, Travel & Corporate)}</li>
+    </ul>
+  </li>
+  <li>✔	https://rachoudhury.com/nft/ (NFT Marketplace Website) </li>
+  <li>✔	http://rachoudhury.com/butic/ (E-commerce Website) </li>
+  <li>✔	https://rachoudhury.com/travel/ (Trave Website) </li>
+  <li>✔	http://rachoudhury.com/foodz/ (Online Agro Firm Website) </li>
+  <li>✔	https://rachoudhury.com/liodesign/ (Personal Portfolio Website) </li>
+  <li>✔	https://rachoudhury.com/wer/ (Wedding Website) </li>
+  <li>✔	https://rachoudhury.com/Cripto Carency/  (Simple Crypto Carency Page) </li>
+  <li>✔	https://rachoudhury.com/message/ (Simple Chat Page) </li>
+</ul>
 
 Thanks & Regards
 Raju Ahmed Choudhury.
