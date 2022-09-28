@@ -38,11 +38,11 @@ I can Create/Build/Design or redesign a website, make it responsive, fix bugs, m
   <li>✔	https://rachoudhury.com/message/ (Simple Chat Page) </li>
 </ul>
 
-Thanks & Regards
+Thanks & Regards <br>
 Raju Ahmed Choudhury.
 
 
-Skills: HTML, CSS3, CSS Animation, Bootstrap, JavaScript, React 
+## Skills: HTML, CSS3, CSS Animation, Bootstrap, JavaScript, React 
 
 - 🔭 I’m currently working on Ecologytheme 
 - 🌱 I’m currently learning JavaScript 
